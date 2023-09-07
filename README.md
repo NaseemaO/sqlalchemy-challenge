@@ -1,4 +1,5 @@
-# sqlalchemy-challenge 10.  Assignment instructions included. 
+# sqlalchemy-challenge 10.  
+
 Analysis:
 Precipitation analysis: 
 Study based on 12 months of data range 08/16/2016 through 08/17/2023.
@@ -7,6 +8,7 @@ Avoid travel in the most rainy months which are typically between late October a
 Station analysis: 
 Of the 9 total stations, station 'WAIHEE 837.5, HI US' is the most active, and an average temperature of 72 degrees Farenheit. 
 
+Assignment Instructions:
 Before You Begin
 Create a new repository for this project called sqlalchemy-challenge. Do not add this assignment to an existing repository.
 
